@@ -12,5 +12,6 @@
 ## push to remote project
 * git push origin master
 
-[ ] please add a wuchangfa.txt 
-[ ] please add a qushoujiang.txt
+
+[x] please add a wuchangfa.txt 
+[x] please add a qushoujiang.txt
