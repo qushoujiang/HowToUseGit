@@ -12,6 +12,7 @@
 ## push to remote project
 * git push origin master
 
+## practice
 
-[x] please add a wuchangfa.txt   
-[x] please add a qushoujiang.txt  
+ [ ] please add a wuchangfa.txt   
+ [ ] please add a qushoujiang.txt  
