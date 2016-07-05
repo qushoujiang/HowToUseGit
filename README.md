@@ -13,5 +13,5 @@
 * git push origin master
 
 
-[x] please add a wuchangfa.txt 
-[x] please add a qushoujiang.txt
+[x] please add a wuchangfa.txt   
+[x] please add a qushoujiang.txt  
